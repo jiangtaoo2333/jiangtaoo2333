@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jiangtaoo2333
 - 👀 I’m interested in multitask learning, gaze estiamation, face alignment
 - 🌱 I’m currently working at streamax Streamax Technology Co., Ltd
-- 📫 How to reach me:jiangtaoo2333@163.com
+- 📫 How to reach me:jiangtao2@streamax.com
 
 <!---
 jiangtaoo2333/jiangtaoo2333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
